@@ -1,1 +1,2 @@
-# C30-Angry-Bird-Sample-Code
+# p5.play-boilerplate
+Boiler plate for p5.play
